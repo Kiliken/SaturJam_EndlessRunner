@@ -1134,7 +1134,10 @@ MonoBehaviour:
   _status: {fileID: 172366784}
   _prefabs:
   - {fileID: 3667792860755601851, guid: a8ececcc4a20c3c40b5605e4fd333e63, type: 3}
-  - {fileID: 3667792860755601851, guid: eab2c7c060b4ac0448ca800ea2fedfcd, type: 3}
+  - {fileID: 7392893446793194053, guid: 41e6f20906710d44f83653ab9c4cbe4f, type: 3}
+  - {fileID: 7392893446793194053, guid: efb86a1716e9eaf4a9050967137fb7c2, type: 3}
+  - {fileID: 7392893446793194053, guid: 0bc97605e2229eb4eb4a09e98618da41, type: 3}
+  - {fileID: 7392893446793194053, guid: 886be881524ddf74c8abe8c9bfd9f87c, type: 3}
   _speed: 30
   _timeText: {fileID: 1544106973}
 --- !u!1 &2119754740

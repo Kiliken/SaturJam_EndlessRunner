@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3341132639175527668}
   - component: {fileID: 2866947459123070844}
   m_Layer: 0
-  m_Name: BasicPlane
+  m_Name: BasicTile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

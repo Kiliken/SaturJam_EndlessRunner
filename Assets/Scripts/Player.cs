@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class Player : MonoBehaviour
 {
     
-    private float[] _posPos = {-2,0,2};
+    private float[] _posPos = {-3.3f,0,3.3f};
 
     private Rigidbody _rb;
     private Transform _transform;
@@ -86,10 +86,10 @@ public class Player : MonoBehaviour
         switch (side)
         {
             case 'R':
-                _transform.position = _transform.position + new Vector3(2,0,0);
+                _transform.position = _transform.position + new Vector3(3.3f,0,0);
                 break;
             case 'L':
-                _transform.position = _transform.position + new Vector3(-2, 0, 0);
+                _transform.position = _transform.position + new Vector3(-3.3f, 0, 0);
                 break;
         }
     }
